@@ -1,6 +1,7 @@
 """
 1. Sin utilizar funciones de minimización, maximización, sin condicionales, sin ciclos,
 sin vectores y todo en un solo bloque."""
+Hallar promedio y menor sin estructuras condicionales
 
 codigo = "est0001"
 est1_nota1 = 40
